@@ -33,10 +33,10 @@ This project demonstrates how to manage state, split logic into components, pers
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/dmdanilchenko/todo-list-react-typescript.git
 
 # 2. Navigate into the project folder
-cd <repo-name>
+cd Todo-List-React-TypeScript
 
 # 3. Install dependencies
 npm install
